@@ -4,7 +4,7 @@ Welcome to my **Robotics** repository! This repository contains a collection of 
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 - [Overview](#-overview)
 - [Repository Structure](#-repository-structure)
 - [Topics & Modules](#-topics--modules)
@@ -14,7 +14,7 @@ Welcome to my **Robotics** repository! This repository contains a collection of 
 
 ---
 
-## 📖 Overview
+## Overview
 
 The goal of this repository is to document my learning journey and practical problem-solving in robotics engineering. It showcases code implementations, simulation models, mathematical formulations, and experimental results for key robotics concepts.
 
