@@ -1,0 +1,4 @@
+timestamp,label,reference_keypoints,query_keypoints_before_undistortion,query_keypoints_after_undistortion,good_matches_before_undistortion,good_matches_after_undistortion,result,calibration_type
+2026-10-24T15:24:36,similar viewpoint,1028,1038,1038,493,493,OBJECT RECOGNIZED,"APPROXIMATE (estimated from image size, not measured)"
+2026-10-24T15:25:38,different viewpoint,1028,826,926,335,352,OBJECT RECOGNIZED,MEASURED (camera_calib.npz)
+2026-10-24T15:26:39,different object,1028,1238,1314,35,41,OBJECT NOT RECOGNIZED,MEASURED (camera_calib.npz)

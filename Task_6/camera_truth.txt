@@ -1,0 +1,11 @@
+Simulated camera used to generate the query and chessboard images.
+This is the answer key. Your measured calibration should be close to it.
+
+Camera matrix K:
+[[500.   0. 320.]
+ [  0. 500. 240.]
+ [  0.   0.   1.]]
+
+Distortion (k1, k2, p1, p2, k3): [-0.25, 0.08, 0.0, 0.0, 0.0]
+Image size: 640 x 480
+Chessboard: 9 x 6 inner corners, 25.0 mm squares

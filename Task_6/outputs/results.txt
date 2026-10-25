@@ -1,0 +1,17 @@
+Run label: different object
+Run time : 2026-10-24 15:26:39
+Reference: sample_materials/reference.jpg
+Query    : sample_materials/query_different_object.jpg
+
+Calibration type: MEASURED (camera_calib.npz)
+Camera matrix K:
+[[501.0775   0.     321.3205]
+ [  0.     501.5697 239.9261]
+ [  0.       0.       1.    ]]
+Distortion coefficients (k1,k2,p1,p2,k3): [-0.248175  0.076563  0.00006   0.000384  0.      ]
+Reference keypoints: 1028
+Query keypoints before undistortion: 1238
+Query keypoints after undistortion: 1314
+Good matches before undistortion: 35
+Good matches after undistortion: 41
+Recognition result (threshold 50 good matches): OBJECT NOT RECOGNIZED
